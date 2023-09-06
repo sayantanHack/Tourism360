@@ -22,7 +22,7 @@
     "babel-preset-react-native": "^1.9.1",
     "gh-pages": "^2.1.1",
     "jest": "^25.0.0",
-    "react-devtools": "^4.1.0",
+    "react-devtools": "^4.28.0",
     "react-test-renderer": "16.0.0",
     "xopen": "1.0.0"
   },
